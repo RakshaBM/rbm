@@ -1,10 +1,1 @@
-a
-B
-D
-A
-C
-C
-B
-b
-kkkkkkkkk
-tttttttthis is a new file. this is uNder branch 1
+this is a new file. this is under master.
